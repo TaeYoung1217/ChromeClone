@@ -1,2 +1,2 @@
-# ChromeClone
-JS이용한 Chrome Clone 코딩
+# ChromeMomentumClone
+JS이용한 Chrome Momentum App Clone 코딩
